@@ -1,0 +1,2 @@
+../zoe-lib-python
+pyTelegramBotAPI==3.7.7
